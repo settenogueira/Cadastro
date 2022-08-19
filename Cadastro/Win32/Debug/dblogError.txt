@@ -1,0 +1,11 @@
+19/08/2022 01:03:29:65 - EnviarEmail - Could not load SSL library.
+19/08/2022 01:03:32:979 - EnviarEmail - Could not load SSL library.
+19/08/2022 01:04:25:884 - EnviarEmail - Could not load SSL library.
+19/08/2022 06:56:57:874 - ViaCep - Access violation at address 009BCE3C in module 'Project1.exe'. Read of address 00000000
+19/08/2022 07:05:44:289 - EnviarEmail - Incorrect authentication data
+
+19/08/2022 07:07:16:694 - EnviarEmail - Incorrect authentication data
+
+19/08/2022 07:11:32:399 - EnviarEmail - Socket Error # 11003
+
+19/08/2022 07:27:16:178 - EnviarEmail - A Host is required
